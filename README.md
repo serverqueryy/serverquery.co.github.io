@@ -1,1 +1,0 @@
-# serverquery.co
